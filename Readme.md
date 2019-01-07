@@ -14,3 +14,6 @@ resources:
       propertyA: 20
 ```
 The example above will automatically create two resources of type `XXX` with titles `test` and `test2` and give them appropriate properties.
+
+## How to use it
+Simply install the module, and add the `include hieraresources` as the only line in your `init.pp` file. It will automatically manage your classes and resources from Hiera.
