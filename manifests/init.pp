@@ -1,4 +1,4 @@
-class hiera_resources {
+class hieraresources {
 	hiera_include('classes')
 	hiera_resources('resources')
 }
