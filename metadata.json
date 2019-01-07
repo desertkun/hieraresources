@@ -1,0 +1,14 @@
+{
+  "name": "hieraresources",
+  "version": "0.1.0",
+  "author": "desertkun",
+  "summary": "A helper module to automatically manage your hiera resources with Hiera Editor",
+  "license": "MIT",
+  "source": "https://github.com/desertkun/hieraresources",
+  "issues_url": "https://github.com/desertkun/hieraresources/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
