@@ -17,3 +17,6 @@ The example above will automatically create two resources of type `XXX` with tit
 
 ## How to use it
 Simply install the module, and add the `include hieraresources` as the only line in your `init.pp` file. It will automatically manage your classes and resources from Hiera.
+
+## How does it work
+It essentielly does `create_resources` on each type it encounters in the `resources` hash.
