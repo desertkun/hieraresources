@@ -1,5 +1,5 @@
 {
-  "name": "hieraresources",
+  "name": "desertkun-hieraresources",
   "version": "0.1.0",
   "author": "desertkun",
   "summary": "A helper module to automatically manage your hiera resources with Hiera Editor",
